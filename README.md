@@ -1,9 +1,9 @@
 description: 
->- Emrehan Baysal -  Basic ecommers website in php
+>- Emrehan Baysal -  Basic E-commerce website in php
 ---
 
 <img align="right" alt="GIF" src="https://www.php.net/images/logos/new-php-logo.svg" width="15%"/>
-# 🌱  Basic ecommers website in php
+# 🌱  Basic E-commerce website in php
 
 > 📣 Proje amaçlı yapılmıştır.</br>
 > ⏬ Güncelleme yapılmayacaktır. </br>
